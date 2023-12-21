@@ -78,7 +78,6 @@ command invocations:
        host                Switch to the host
        off                 Disconnect from host and DUT
        gpio                Manipulate a GPIO (open drain output only)
-       info                Show information about the SD card
 
    options:
      -h, --help            show this help message and exit
